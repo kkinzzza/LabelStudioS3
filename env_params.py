@@ -2,7 +2,7 @@ import storage_params as stp
 
 port=8080
 storage_port=stp.storage_port
-username='dzhenzherukh@gmail.com'
+username='test@space.space'
 password='spacespace'
 storage_host=f'http://localhost:{stp.storage_port}'
 storage_access_key=stp.access_key
