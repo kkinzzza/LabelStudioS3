@@ -5,7 +5,13 @@ This project is a code for deploying (with Docker containers) LabelStudio data m
 The perspectives of this idea connect with integrating this soft into ML projects which use custom hand-labeled datasets.
 
 ## Usage
-There're 4 steps which you need to do for deploying:
+
+First, clone the repository by running the command:
+    ```
+    git clone github.com/kkinzzza/LabelStudioS3
+    ```
+    
+Then, there're 4 steps which you need to do for deploying:
 
 1.  Install required packages:
 
