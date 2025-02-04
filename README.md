@@ -7,6 +7,7 @@ The perspectives of this idea connect with integrating this soft into ML project
 ## Usage
 
 First, clone the repository by running the command:
+
     ```
     git clone github.com/kkinzzza/LabelStudioS3
     ```
