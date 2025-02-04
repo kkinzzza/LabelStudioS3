@@ -8,9 +8,9 @@ The perspectives of this idea connect with integrating this soft into ML project
 
 First, clone the repository by running the command:
 
-    ```
-    git clone github.com/kkinzzza/LabelStudioS3
-    ```
+```
+git clone github.com/kkinzzza/LabelStudioS3
+```
     
 Then, there're 4 steps which you need to do for deploying:
 
